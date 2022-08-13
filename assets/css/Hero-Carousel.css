@@ -1,0 +1,63 @@
+.fit-cover {
+  object-fit: cover;
+}
+
+#btn:hover {
+  box-shadow: 0px 0px 15px 2px rgb(0,0,0);
+  background-color: #ffffff;
+  color: #000000;
+}
+
+#page-icons {
+  color: white;
+}
+
+#page-icons:hover {
+  color: rgb(228,142,12);
+}
+
+#bookpage {
+  background: var(--bs-gray-900);
+}
+
+#bookpage:hover {
+  background: #000000;
+  box-shadow: 0px 0px 10px 2px #000000;
+}
+
+#book-head {
+  color: rgb(255,255,255);
+}
+
+#iconcolor:hover {
+  color: var(--bs-orange);
+}
+
+#iconcolor {
+  color: #ffffff;
+}
+
+#iconcolour {
+  color: #ffffff;
+}
+
+#iconcolour:hover {
+  color: var(--bs-orange);
+}
+
+#icb {
+  color: rgb(117,117,117);
+}
+
+#icb:hover {
+  color: var(--bs-orange);
+}
+
+#c-d:hover {
+  opacity: 0.9;
+}
+
+#r-u {
+  background: var(--bs-gray-900);
+}
+
